@@ -3,3 +3,5 @@ Global Project Based Learning program organised in Hanoi University of Science a
 
 MISSION 1: Line tracing robot <individual><br/>
 MISSION 2: Free idea - Voice controlled & Communicating Robot <teamwork - group 12>
+
+# Demo clips: https://drive.google.com/drive/folders/1DUJjvgyqbPORNG5rQp2VsxyrWHQrrnrQ?usp=sharing
